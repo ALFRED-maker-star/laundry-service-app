@@ -1,0 +1,6 @@
+{
+  "name": "FreshFold",
+  "description": "FreshFold premium laundry and dry cleaning service with pickup scheduling, itemized pricing, order tracking, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
